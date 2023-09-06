@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am DineshRacharla iam pursuing my masters in Nortwest Missouri State University in the field of Applied computer Science<br>
+I am from Bharat.<br>
+Planning to start my on Enterprise <br>
+
+
+
 <!--
 **DineshRacharla468/DineshRacharla468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
